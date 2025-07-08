@@ -103,5 +103,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **[Your Name]**  
+Developed by **mateuszvdl**  
 Feel free to contribute, fork, or raise issues if you find bugs or have suggestions!
