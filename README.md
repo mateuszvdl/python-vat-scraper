@@ -77,7 +77,7 @@ The script will:
 
 ```
 python-vat-scraper/
-├── scraper_vat.py        # Main script
+├── scraper_vat.py                 # Main script
 ├── requirements.txt               # Python dependencies
 ├── lista_firm.csv                 # Output file with VAT list (generated)
 ├── vat_checks.db                  # SQLite database (generated)
